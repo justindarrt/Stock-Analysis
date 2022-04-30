@@ -10,6 +10,8 @@ The goal of this project is to build a VBA script and tool that can analyze ever
 VBA was used to perform analysis. There are two versions of VBA with differences in looping through raw data. We seek to see which VBA script is better. 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/103381098/166058249-ac09081a-f3af-4755-8df8-ddf56769f6c8.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/103381098/166058276-8f97f267-1823-4e7f-b31e-6cab42a32826.png)
+![VBA_Challenge_2017_OLD](https://user-images.githubusercontent.com/103381098/166112293-e14eb0bf-e540-4b5d-9328-eaba0ccc88f9.png)
+![VBA_Challenge_2018_OLD](https://user-images.githubusercontent.com/103381098/166112294-eba9901b-69c2-4110-8895-b147431230ea.png)
 
 ### Stock Performance
 Overall, the basket of stocks analyzed performed better for 2017, only one stock had a negative return. However, 2018 was significantly worse with only two stocks having a positive return. ENPH and RUN were the only companies to have positives returns both years. During 2018, the only two positive stocks also were in the top three for total daily volume. There weren’t any strong correlations for returns and total daily volume for 2017.
